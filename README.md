@@ -1,4 +1,4 @@
 # desafio_parada_07
 
 ## exemplo
-![SITE (1)](https://user-images.githubusercontent.com/24756809/170147535-e745cb53-4f64-4184-bd5b-ac3f43bd6d42.png)
+![SITE (1)](https://github.com/FerX95/desafio_parada_07/blob/main/Desktop%20-%201.png)
